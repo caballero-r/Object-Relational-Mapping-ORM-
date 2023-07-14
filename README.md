@@ -22,10 +22,11 @@ In this project we are connecting to our database and seeding the test informati
 3. MySQL - Database Management System
 
 ## Contributors
-1. Xandromus - Starter Code
-2. dependabot[bot] - Starter Code
-3. Georgeyoo - Starter Code
-4. alimaqsood19 - Instructor / Sequelize Example
+1. caballero-r
+2. Xandromus - Starter Code
+3. dependabot[bot] - Starter Code
+4. Georgeyoo - Starter Code
+5. alimaqsood19 - Instructor / Sequelize Example
 
 ## Questions?
 If you have any questions or concerns about this application please reach out to [caballero-r](https://github.com/caballero-r) or via email to russellncaballero@gmail.com.
