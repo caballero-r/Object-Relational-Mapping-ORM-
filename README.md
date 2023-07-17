@@ -13,6 +13,8 @@ In this project we are connecting to our database and seeding the test informati
 
 - Demo
 
+Link to demo video: https://drive.google.com/file/d/1eCaaD09P7DjzywBBxoyhWN6PrHdv3U3k/view
+
 ![Preview of Demo](/utils/img/Screenshot%202023-07-14%20at%2011.22.58%20AM.png)
 
 
